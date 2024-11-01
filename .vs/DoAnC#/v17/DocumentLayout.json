@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lebla\\Downloads\\DoanC--master (1)\\DoanC--master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D39D46B-10F4-49F8-95DE-004961D7063B}|DoAnC#\\DoAnC#.csproj|c:\\users\\lebla\\downloads\\doanc--master (1)\\doanc--master\\doanc#\\report\\thongkereport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{0D39D46B-10F4-49F8-95DE-004961D7063B}|DoAnC#\\DoAnC#.csproj|solutionrelative:doanc#\\report\\thongkereport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D39D46B-10F4-49F8-95DE-004961D7063B}|DoAnC#\\DoAnC#.csproj|c:\\users\\lebla\\downloads\\doanc--master (1)\\doanc--master\\doanc#\\ui\\frmordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D39D46B-10F4-49F8-95DE-004961D7063B}|DoAnC#\\DoAnC#.csproj|solutionrelative:doanc#\\ui\\frmordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D39D46B-10F4-49F8-95DE-004961D7063B}|DoAnC#\\DoAnC#.csproj|c:\\users\\lebla\\downloads\\doanc--master (1)\\doanc--master\\doanc#\\dal\\clsxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D39D46B-10F4-49F8-95DE-004961D7063B}|DoAnC#\\DoAnC#.csproj|solutionrelative:doanc#\\dal\\clsxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D39D46B-10F4-49F8-95DE-004961D7063B}|DoAnC#\\DoAnC#.csproj|C:\\Users\\lebla\\Downloads\\DoanC--master (1)\\DoanC--master\\doanc#\\report\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D39D46B-10F4-49F8-95DE-004961D7063B}|DoAnC#\\DoAnC#.csproj|solutionrelative:doanc#\\report\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D39D46B-10F4-49F8-95DE-004961D7063B}|DoAnC#\\DoAnC#.csproj|c:\\users\\lebla\\downloads\\doanc--master (1)\\doanc--master\\doanc#\\ui\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D39D46B-10F4-49F8-95DE-004961D7063B}|DoAnC#\\DoAnC#.csproj|solutionrelative:doanc#\\ui\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D39D46B-10F4-49F8-95DE-004961D7063B}|DoAnC#\\DoAnC#.csproj|c:\\users\\lebla\\downloads\\doanc--master (1)\\doanc--master\\doanc#\\ui\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D39D46B-10F4-49F8-95DE-004961D7063B}|DoAnC#\\DoAnC#.csproj|solutionrelative:doanc#\\ui\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClsXml.cs",
+              "DocumentMoniker": "C:\\Users\\lebla\\Downloads\\DoanC--master (1)\\DoanC--master\\DoAnC#\\DAL\\ClsXml.cs",
+              "RelativeDocumentMoniker": "DoAnC#\\DAL\\ClsXml.cs",
+              "ToolTip": "C:\\Users\\lebla\\Downloads\\DoanC--master (1)\\DoanC--master\\DoAnC#\\DAL\\ClsXml.cs",
+              "RelativeToolTip": "DoAnC#\\DAL\\ClsXml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwBQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:26:28.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmThongKe.cs",
+              "DocumentMoniker": "C:\\Users\\lebla\\Downloads\\DoanC--master (1)\\DoanC--master\\DoAnC#\\UI\\FrmThongKe.cs",
+              "RelativeDocumentMoniker": "DoAnC#\\UI\\FrmThongKe.cs",
+              "ToolTip": "C:\\Users\\lebla\\Downloads\\DoanC--master (1)\\DoanC--master\\DoAnC#\\UI\\FrmThongKe.cs",
+              "RelativeToolTip": "DoAnC#\\UI\\FrmThongKe.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T05:59:47.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmThongKe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lebla\\Downloads\\DoanC--master (1)\\DoanC--master\\DoAnC#\\UI\\FrmThongKe.cs",
+              "RelativeDocumentMoniker": "DoAnC#\\UI\\FrmThongKe.cs",
+              "ToolTip": "C:\\Users\\lebla\\Downloads\\DoanC--master (1)\\DoanC--master\\DoAnC#\\UI\\FrmThongKe.cs [Design]",
+              "RelativeToolTip": "DoAnC#\\UI\\FrmThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T05:33:16.281Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThongKeReport.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\lebla\\Downloads\\DoanC--master (1)\\DoanC--master\\DoAnC#\\Report\\ThongKeReport.rdlc",
+              "RelativeDocumentMoniker": "DoAnC#\\Report\\ThongKeReport.rdlc",
+              "ToolTip": "C:\\Users\\lebla\\Downloads\\DoanC--master (1)\\DoanC--master\\DoAnC#\\Report\\ThongKeReport.rdlc [Design]",
+              "RelativeToolTip": "DoAnC#\\Report\\ThongKeReport.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-10-31T09:53:04.751Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmOrderManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lebla\\Downloads\\DoanC--master (1)\\DoanC--master\\DoAnC#\\UI\\FrmOrderManagement.cs",
+              "RelativeDocumentMoniker": "DoAnC#\\UI\\FrmOrderManagement.cs",
+              "ToolTip": "C:\\Users\\lebla\\Downloads\\DoanC--master (1)\\DoanC--master\\DoAnC#\\UI\\FrmOrderManagement.cs [Design]",
+              "RelativeToolTip": "DoAnC#\\UI\\FrmOrderManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T05:00:13.092Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmReport.cs",
+              "DocumentMoniker": "C:\\Users\\lebla\\Downloads\\DoanC--master (1)\\DoanC--master\\DoAnC#\\Report\\FrmReport.cs",
+              "RelativeDocumentMoniker": "DoAnC#\\Report\\FrmReport.cs",
+              "ToolTip": "C:\\Users\\lebla\\Downloads\\DoanC--master (1)\\DoanC--master\\DoAnC#\\Report\\FrmReport.cs",
+              "RelativeToolTip": "DoAnC#\\Report\\FrmReport.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAxwDMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:09:44.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
